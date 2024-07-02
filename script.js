@@ -9,7 +9,6 @@ function randombg() {
   }
 
   
-  
   function login() {
     const usuario = document.getElementById('usuario').value;
     const contra = document.getElementById('contra').value;
